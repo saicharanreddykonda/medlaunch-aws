@@ -1,4 +1,4 @@
-# medlaunch-aws
+# Medlaunch-aws
 AWS serverless data pipeline for healthcare facility accreditation processing
 
 Project: AWS Serverless Data Pipeline for Expiring Accreditations 
